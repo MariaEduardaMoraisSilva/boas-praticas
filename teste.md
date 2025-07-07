@@ -1,11 +1,11 @@
 <div class="header">
-  <h1>git</h1>
-  <img height="40" width="250" src="assets/sie-logo-collection-v2-1-0/Online/PNG/sie-logo-petrol-rgb.png" alt="Logo Siemens">
+    <div class="git">git</div>
+    <div class="siemens">siemens</div>
 </div>
 
 ## Resumo sobre git
 
-git é um sistema de controle de versão distribuído amplamente utilizado no desenvolvimento de software. Ele permite que vários desenvolvedores trabalhem simultaneamente em um projeto, registrando todas as alterações feitas no código.
+Git é um sistema de controle de versão distribuído amplamente utilizado no desenvolvimento de software. Ele permite que vários desenvolvedores trabalhem simultaneamente em um projeto, registrando todas as alterações feitas no código.
 
 ### Principais Conceitos
 
